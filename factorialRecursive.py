@@ -1,6 +1,7 @@
 #prompts user to enter any number
 number = int(input("Enter any number: "))
 
+#define function to get factorial
 def fact(number):
     if(number == 0):
         return 1
