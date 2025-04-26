@@ -12,4 +12,4 @@ for letter in word:
     reversedWord = letter + reversedWord
 
 #Output the reversed word
-print("The reversed word for ", word , "is",reversedWord)
+print("The reversed word for ", word , "is:",reversedWord)
